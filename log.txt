@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 2024-11-27 16:17:57 - El suelo está seco - 20%
 2024-11-27 16:18:02 - El suelo está seco - 20%
 2024-11-27 16:20:05 - El suelo está seco - 20%
@@ -7,7 +7,7 @@
 2024-11-27 16:23:56 - El suelo está seco - 20%
 2024-11-27 16:24:01 - El suelo está seco - 20%
 2024-11-27 16:39:51 - El suelo está seco - 20%
-=======
-
->>>>>>> 714dae0b56ceb60f2ab674352272298922bd9e0c
 2024-11-27 16:53:16 - El suelo está seco - 20%
+2024-11-27 16:44:27 - El suelo está seco - 20%
+2024-11-27 16:47:53 - El suelo está seco - 20%
+
