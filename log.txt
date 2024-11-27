@@ -22,3 +22,4 @@
 2024-11-27 16:00:41 - El suelo está húmedo - 80%
 2024-11-27 16:00:47 - El suelo está húmedo - 80%
 2024-11-27 16:00:53 - El suelo está seco - 20%
+2024-11-27 16:00:59 - El suelo está seco - 20%
