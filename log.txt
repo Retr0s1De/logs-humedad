@@ -166,3 +166,4 @@
 2024-11-27 19:25:16 - El suelo está seco - 20%
 2024-11-27 19:25:18 - El suelo está seco - 20%
 2024-11-27 19:25:20 - El suelo está seco - 20%
+2024-12-01 22:46:11,El suelo está seco,20
