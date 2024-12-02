@@ -225,3 +225,4 @@
 2024-12-01 22:51:46,El suelo está seco,20
 2024-12-01 22:51:52,El suelo está seco,20
 2024-12-01 22:51:58,El suelo está seco,20
+2024-12-01 22:52:04,El suelo está seco,20
