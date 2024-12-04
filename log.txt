@@ -651,3 +651,4 @@
 2024-12-04 19:23:20,El suelo está húmedo,80
 2024-12-04 19:23:22,El suelo está seco,20
 2024-12-04 19:23:24,El suelo está seco,20
+2024-12-04 19:23:27,El suelo está seco,20
